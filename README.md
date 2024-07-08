@@ -16,10 +16,11 @@ its effectiveness in enhancing customer experience and driving business growth.
 
 ## Poject Demonstration
 
-
-
 https://github.com/SRDhanush16/Crowd-Monitoring/assets/141258864/09ec71ec-8826-4f72-8a6a-c93a327d0868
 
+## Report
+
+[AI FINAL REPORT.pdf](https://github.com/user-attachments/files/16135014/AI.FINAL.REPORT.pdf)
 
 
 ## Steps for Installation / Setup
